@@ -49,7 +49,7 @@ I used media query to be sure the page was responsive and would adapt well when 
 ## Usage 
 
 # Screenshot link:
-
+https://github.com/melissapazzanese123/Challenge-2/tree/main/images
 
 ## Credits
 
